@@ -1,0 +1,29 @@
+.sidebar{
+  width: 10em;
+  float: left;
+  background-color: white;
+  position:absolute;
+}
+.background{
+  background-color: #85E176;
+}
+.background1{
+  background-color: #CCE2C8;
+}
+.background2{
+  background-color: #4373CE;
+}
+.background3{
+  background-color: #90A8D5;
+
+}
+
+.content {
+  margin:10px ;
+  padding: 100px;
+
+}
+.margins{
+  margin: 100px;
+  padding: 100px;
+}
